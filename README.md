@@ -1,0 +1,2 @@
+# GlobalNavalBattle-Client
+GlobalNavalBattle клиент
